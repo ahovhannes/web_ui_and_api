@@ -1,0 +1,10 @@
+{
+    "userid": "6wl", 
+    "name": "Gregory Loscombe",
+    "company": "Amplience",
+    "location": "Manchester",
+    "public_repos": 7,
+    "public_gists": 2,
+    "followers": 13,
+    "following": 29
+}
